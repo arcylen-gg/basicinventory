@@ -11,3 +11,6 @@ C:\Users\JEFF\Desktop\New folder (2)\Basic_Inventory_System\Basic_Inventory_Syst
 C:\Users\JEFF\Desktop\New folder (2)\Basic_Inventory_System\Basic_Inventory_System\obj\Debug\Basic_Inventory_System.frmAddUser.resources
 C:\Users\JEFF\Desktop\New folder (2)\Basic_Inventory_System\Basic_Inventory_System\obj\Debug\Basic_Inventory_System.frmLogin.resources
 C:\Users\JEFF\Desktop\New folder (2)\Basic_Inventory_System\Basic_Inventory_System\obj\Debug\Basic_Inventory_System.mainForm.resources
+C:\Users\ronald\Desktop\New folder\basicinventory\Basic_Inventory_System\bin\Debug\Basic_Inventory_System.exe.config
+C:\Users\ronald\Desktop\New folder\basicinventory\Basic_Inventory_System\obj\Debug\Basic_Inventory_System.exe
+C:\Users\ronald\Desktop\New folder\basicinventory\Basic_Inventory_System\obj\Debug\Basic_Inventory_System.pdb
