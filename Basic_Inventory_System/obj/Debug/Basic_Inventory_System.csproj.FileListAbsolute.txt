@@ -1,0 +1,13 @@
+C:\Users\JEFF\Desktop\test_project\Basic_Inventory_System\Basic_Inventory_System\bin\Debug\Basic_Inventory_System.exe.config
+C:\Users\JEFF\Desktop\New folder (2)\Basic_Inventory_System\Basic_Inventory_System\bin\Debug\Basic_Inventory_System.exe.config
+C:\Users\JEFF\Desktop\New folder (2)\Basic_Inventory_System\Basic_Inventory_System\obj\Debug\Basic_Inventory_System.csprojResolveAssemblyReference.cache
+C:\Users\JEFF\Desktop\New folder (2)\Basic_Inventory_System\Basic_Inventory_System\obj\Debug\Basic_Inventory_System.Form1.resources
+C:\Users\JEFF\Desktop\New folder (2)\Basic_Inventory_System\Basic_Inventory_System\obj\Debug\Basic_Inventory_System.Properties.Resources.resources
+C:\Users\JEFF\Desktop\New folder (2)\Basic_Inventory_System\Basic_Inventory_System\obj\Debug\Basic_Inventory_System.csproj.GenerateResource.Cache
+C:\Users\JEFF\Desktop\New folder (2)\Basic_Inventory_System\Basic_Inventory_System\bin\Debug\Basic_Inventory_System.exe
+C:\Users\JEFF\Desktop\New folder (2)\Basic_Inventory_System\Basic_Inventory_System\bin\Debug\Basic_Inventory_System.pdb
+C:\Users\JEFF\Desktop\New folder (2)\Basic_Inventory_System\Basic_Inventory_System\obj\Debug\Basic_Inventory_System.exe
+C:\Users\JEFF\Desktop\New folder (2)\Basic_Inventory_System\Basic_Inventory_System\obj\Debug\Basic_Inventory_System.pdb
+C:\Users\JEFF\Desktop\New folder (2)\Basic_Inventory_System\Basic_Inventory_System\obj\Debug\Basic_Inventory_System.frmAddUser.resources
+C:\Users\JEFF\Desktop\New folder (2)\Basic_Inventory_System\Basic_Inventory_System\obj\Debug\Basic_Inventory_System.frmLogin.resources
+C:\Users\JEFF\Desktop\New folder (2)\Basic_Inventory_System\Basic_Inventory_System\obj\Debug\Basic_Inventory_System.mainForm.resources
